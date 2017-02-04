@@ -12,7 +12,7 @@
 -  [BlogRead](http://blogread.cn/it/): 收录IT领域的优秀技术博客，在这里你可以找到Web开发、系统架构、数据库、前端技术、用户体验等领域的前沿文章
 -  [ChinaUnix] (http://blog.chinaunix.net/): 专注操作系统、架构设计、移动端、有专家团队文章可以共享
 -  [OSCHINA（oschina)] (https://www.oschina.net/): 专注开源项目、技术分享
-
+-  [runoob](http://www.runoob.com/): 信息很全面,文档编写的比较详细，特别适合初学者学习网站
 
 ## 精华网站
 这类网站呢，质量大都比较高，都是专业人士翻译或者亲自写的文章，看着很受启发；
