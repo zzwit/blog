@@ -44,6 +44,13 @@
 -  [老赵点滴 - 追求编程之美] (http://blog.zhaojie.me/)
 -  [并发编程网] (http://ifeve.com/)
 -  [Tim's blog] (https://timyang.net/)
+
+## 问答博客
+-  [德问](http://www.dewen.net.cn/)：最专注IT问答，回答质量极高
+-  [Stack Overflow] (http://stackoverflow.com/)
+-  [SegmentFault] (https://segmentfault.com)
+-  [IT经验] (http://www.itjingyan.com/)
+-  [极乐](http://www.dreawer.com/)
  
 ## 本文参考来自
  感谢原著分享，希望把更好的文章帮助更多人
