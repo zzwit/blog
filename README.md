@@ -17,7 +17,7 @@
 ## 精华网站
 这类网站呢，质量大都比较高，都是专业人士翻译或者亲自写的文章，看着很受启发；
 
--  [伯乐在线])(http://blog.jobbole.com/): 投递和发现优秀原创的最佳聚合站点之一，翻译博客聚集
+-  [伯乐在线](http://blog.jobbole.com/): 投递和发现优秀原创的最佳聚合站点之一，翻译博客聚集
 -  [ImportNew] (http://www.importnew.com/): 专注Java & Android 技术分享
 -  [Segmentfault] (https://segmentfault.com/): 年轻开发者社区；最前沿的技术问答，最纯粹的技术切磋。
 -  [InfoQ] (http://www.infoq.com/cn/) : InfoQ - 促进软件开发领域知识与创新的传播
