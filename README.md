@@ -22,8 +22,9 @@
 -  [Segmentfault] (https://segmentfault.com/): 年轻开发者社区；最前沿的技术问答，最纯粹的技术切磋。
 -  [InfoQ] (http://www.infoq.com/cn/) : InfoQ - 促进软件开发领域知识与创新的传播
 -  [V2EX] (https://www.v2ex.com/) : V2EX 是创意工作者们的社区。这里目前汇聚了超过 75000 名主要来自互联网行业、游戏行业和媒体行业的创意工作
--  [开发者头条](https://toutiao.io/)
+-  [开发者头条](https://toutiao.io/)：开发者最新资讯，最新技术分享
 -  [开发者好东西](http://www.memect.com/)
+
 ## 互联网网站团队博客
 -  [腾讯全端 AlloyTeam 团队 Blog]() : Tencent  前端
 -  [奇虎360技术博客](http://blogs.360.cn/): 安全相关技术
