@@ -63,6 +63,7 @@
 -  [OutOfMemory —— 牛人技术博客] (http://ju.outofmemory.cn/best/)
 -  [四火的唠叨 —— 个人博客推荐] (http://www.raychase.net/resources)
 -  [Mind Hacks —— 价值博客们] (http://mindhacks.cn/friend-links/)
+-  ceshi
 
 
 
