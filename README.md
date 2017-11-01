@@ -55,7 +55,7 @@
 -  [极乐](http://www.dreawer.com/)
 
 ## Mac常用的软件工具
--  [Mac软件和评测](https://github.com/jaywcjlove/awesome-mac)
+-  [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)：很多的Mac工具和评测
 ## 本文参考来自
  感谢原著分享，希望把更好的文章帮助更多人
  
