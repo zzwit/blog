@@ -53,7 +53,9 @@
 -  [SegmentFault] (https://segmentfault.com)
 -  [IT经验] (http://www.itjingyan.com/)
 -  [极乐](http://www.dreawer.com/)
- 
+
+## Mac常用的软件工具
+-  [Mac软件和评测](https://github.com/jaywcjlove/awesome-mac)
 ## 本文参考来自
  感谢原著分享，希望把更好的文章帮助更多人
  
@@ -63,6 +65,8 @@
 -  [OutOfMemory —— 牛人技术博客] (http://ju.outofmemory.cn/best/)
 -  [四火的唠叨 —— 个人博客推荐] (http://www.raychase.net/resources)
 -  [Mind Hacks —— 价值博客们] (http://mindhacks.cn/friend-links/)
+
+
 
 
 
