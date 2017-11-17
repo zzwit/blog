@@ -26,7 +26,7 @@
 -  [开发者好东西](http://www.memect.com/)
 
 ## 互联网网站团队博客
--  [腾讯全端 AlloyTeam 团队 Blog]() : Tencent  前端
+-  [腾讯全端 AlloyTeam 团队 Blog](http://alloyteam.github.io/) : Tencent  前端
 -  [奇虎360技术博客](http://blogs.360.cn/): 安全相关技术
 -  [美团技术团队] (http://tech.meituan.com/) : 容器、安全、重构等等一些技术分享
 
