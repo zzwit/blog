@@ -97,7 +97,7 @@ firewall-cmd --zone=public --add-port=443/tcp --permanent
 检查端口是否开发
 
 ```
-	nc -vz IP地址 22
+nc -vz IP地址 22
 ```
 
 如果防火墙规则都已经开发端口，还是不能好使的，请查看的服务器的运营商是否用安全策略
@@ -156,7 +156,7 @@ Enter email address (used for urgent renewal and security notices) (Enter 'c' to
 
 ```
 
-可能回去出现让你同意条款
+可能会出现让你同意条款
 
 ```
 Please read the Terms of Service at
@@ -167,7 +167,6 @@ https://acme-v01.api.letsencrypt.org/directory
 
 输入 A
 ```
-
 
 如果成功，certbot将询问您希望如何配置HTTPS设置：
 
