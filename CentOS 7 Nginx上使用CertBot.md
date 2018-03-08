@@ -1,4 +1,4 @@
-#CentOS 7 Nginx上使用CertBot
+# CentOS 7 Nginx上使用CertBot 
 **简介**
 
 Let's Encrypt是一种新的证书颁发机构（CA），它提供了一种获取和安装免费TLS / SSL证书的简单方法，从而在Web服务器上启用加密的HTTPS。它通过提供软件客户端Certbot来简化流程，该软件客户端试图使大多数（如果不是全部的话）所需步骤自动化。目前，获取和安装证书的整个过程在Apache和Nginx Web服务器上都是完全自动的。
@@ -228,7 +228,7 @@ server {
   sudo service  nginx reload
 ```
 
-##自动更新证书
+## 自动更新证书
 先在命令行模拟证书更新：
 
 ```
