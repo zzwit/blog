@@ -17,5 +17,6 @@ chmod u+rwx /usr/share/fonts/chinese/*
 udo mkfontscale
 sudo mkfontdir
 sudo fc-cache –fv
+source /etc/profile
 ```
 > 查看 fc-list
