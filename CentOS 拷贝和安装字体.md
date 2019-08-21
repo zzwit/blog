@@ -9,7 +9,7 @@ yum install mkfontscale
 cd /usr/share/fonts
 mkdir chinese
 ```
-> 将ttc文件 第二步拷贝到/usr/share/fonts/chinese
+> 第二步 将ttc文件拷贝到/usr/share/fonts/chinese
 > 设置权限
 
 ```
