@@ -14,7 +14,7 @@ mkdir chinese
 
 ```
 chmod u+rwx /usr/share/fonts/chinese/*
-udo mkfontscale
+sudo mkfontscale
 sudo mkfontdir
 sudo fc-cache –fv
 source /etc/profile
