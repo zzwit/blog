@@ -1,4 +1,4 @@
-#不小心 crontab -r 内容恢复
+# 不小心 crontab -r 内容恢复
 > 从 cron cp 一个临时文件
 ```
 cat /var/log/cron* | grep -i "`which cron`" > ./all_temp
